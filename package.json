@@ -1,0 +1,16 @@
+{
+  "name": "javascript-app-boilerplate",
+  "version": "0.0.1",
+  "description": "Boilerplate for a universal javascript application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "node",
+    "express"
+  ],
+  "author": "Salviano Ludgerio",
+  "license": "MIT"
+}
